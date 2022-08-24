@@ -1,0 +1,6 @@
+/text.txt
+/text2.text
+
+
+#gitignore files
+auto_generated/*.txt
